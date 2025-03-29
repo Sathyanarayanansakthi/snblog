@@ -108,7 +108,7 @@ const Home = () => {
           <a href="#" className="text-gray-600 transition hover:text-pink-500"><FaInstagram /></a>
           <a href="https://www.linkedin.com/in/sathya-narayanans" className="text-gray-600 transition hover:text-blue-600"><FaLinkedin /></a>
           <a href="https://github.com/Sathyanarayanansakthi" className="text-gray-600 transition hover:text-gray-800"><FaGithub /></a>
-          <a href="https://sathya-narayanan-site.vercel.app/" className="text-gray-600 transition hover:text-green-600"><FaGlobe /></a>
+          <a href="https://sathyanarayanan.live" className="text-gray-600 transition hover:text-green-600"><FaGlobe /></a>
         </div>
       </motion.footer>
 
